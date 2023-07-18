@@ -1,8 +1,8 @@
 <h1>👋 &nbsp;Olá, eu sou o Jeong, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jeeonglee1"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jeeonglee1@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jeeonglee1"></a>
+<a href="mailto:jeeonglee1@gmail.com"></a>
 
 </p>
 
